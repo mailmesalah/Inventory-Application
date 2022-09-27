@@ -1,0 +1,17 @@
+Line 59: Class MSComctlLib.TreeView of control TrSuppliers was not a loaded control class.
+Line 82: Class MSForms.Label of control Label3 was not a loaded control class.
+Line 96: Class MSForms.TextBox of control TTinNo was not a loaded control class.
+Line 114: Class MSForms.TextBox of control TSupplierCode was not a loaded control class.
+Line 131: Class MSForms.Label of control Label1 was not a loaded control class.
+Line 145: Class MSForms.TextBox of control TSupplierName was not a loaded control class.
+Line 163: Class MSForms.Label of control Label2 was not a loaded control class.
+Line 177: Class MSForms.TextBox of control TAddress1 was not a loaded control class.
+Line 195: Class MSForms.Label of control Label5 was not a loaded control class.
+Line 209: Class MSForms.TextBox of control TAddress2 was not a loaded control class.
+Line 227: Class MSForms.TextBox of control TAddress3 was not a loaded control class.
+Line 245: Class MSForms.TextBox of control TPhone was not a loaded control class.
+Line 263: Class MSForms.Label of control Label6 was not a loaded control class.
+Line 277: Class MSForms.TextBox of control TNarration was not a loaded control class.
+Line 295: Class MSForms.Label of control Label7 was not a loaded control class.
+Line 309: Class MSForms.Label of control Label8 was not a loaded control class.
+Line 323: Class MSForms.ComboBox of control CoStatus was not a loaded control class.

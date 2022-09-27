@@ -1,0 +1,5 @@
+Line 59: Class MSComctlLib.TreeView of control TrUnits was not a loaded control class.
+Line 82: Class MSForms.TextBox of control TUnitCode was not a loaded control class.
+Line 100: Class MSForms.Label of control Label1 was not a loaded control class.
+Line 114: Class MSForms.TextBox of control TUnitName was not a loaded control class.
+Line 132: Class MSForms.Label of control Label2 was not a loaded control class.

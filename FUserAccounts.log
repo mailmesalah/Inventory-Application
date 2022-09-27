@@ -1,0 +1,12 @@
+Line 22: Class TabDlg.SSTab of control SSTUsetAccounts was not a loaded control class.
+Line 137: Class MSFlexGridLib.MSFlexGrid of control MUserGrid was not a loaded control class.
+Line 167: Class MSFlexGridLib.MSFlexGrid of control MRightsGrid was not a loaded control class.
+Line 197: Class MSForms.ComboBox of control CoRights was not a loaded control class.
+Line 214: Class MSForms.Label of control Label4 was not a loaded control class.
+Line 228: Class MSForms.ComboBox of control CoUserRights was not a loaded control class.
+Line 245: Class MSForms.Label of control Label3 was not a loaded control class.
+Line 259: Class MSForms.Label of control Label2 was not a loaded control class.
+Line 273: Class MSForms.ComboBox of control CoUsername was not a loaded control class.
+Line 290: Class MSForms.TextBox of control TPassword was not a loaded control class.
+Line 307: Class MSForms.Label of control Label1 was not a loaded control class.
+Line 390: Class MSForms.ComboBox of control CoPassword was not a loaded control class.

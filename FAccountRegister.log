@@ -1,0 +1,16 @@
+Line 131: Class MSComctlLib.TreeView of control TrAccounts was not a loaded control class.
+Line 153: Class MSForms.TextBox of control TFind was not a loaded control class.
+Line 171: Class MSForms.TextBox of control TAccountCode was not a loaded control class.
+Line 189: Class MSForms.TextBox of control TBillingName was not a loaded control class.
+Line 208: Class MSForms.TextBox of control TDetails3 was not a loaded control class.
+Line 227: Class MSForms.ComboBox of control CoStatus was not a loaded control class.
+Line 248: Class MSForms.ComboBox of control CoAccount was not a loaded control class.
+Line 270: Class MSForms.TextBox of control TNarration was not a loaded control class.
+Line 289: Class MSForms.TextBox of control TDetails1 was not a loaded control class.
+Line 308: Class MSForms.TextBox of control TDetails2 was not a loaded control class.
+Line 327: Class MSForms.Label of control Label3 was not a loaded control class.
+Line 341: Class MSForms.Label of control Label8 was not a loaded control class.
+Line 355: Class MSForms.Label of control Label7 was not a loaded control class.
+Line 369: Class MSForms.Label of control Label5 was not a loaded control class.
+Line 383: Class MSForms.Label of control Label2 was not a loaded control class.
+Line 397: Class MSForms.Label of control Label1 was not a loaded control class.

@@ -1,0 +1,11 @@
+Line 69: Class MSFlexGridLib.MSFlexGrid of control MGrid was not a loaded control class.
+Line 99: Class MSComCtl2.DTPicker of control DTPFrom was not a loaded control class.
+Line 112: Class MSComCtl2.DTPicker of control DTPTo was not a loaded control class.
+Line 125: Class MSForms.ComboBox of control CoManufacturer was not a loaded control class.
+Line 144: Class MSForms.Label of control Label2 was not a loaded control class.
+Line 166: Class MSForms.Label of control Label4 was not a loaded control class.
+Line 180: Class MSForms.Label of control Label3 was not a loaded control class.
+Line 194: Class MSForms.ComboBox of control CoSupplier was not a loaded control class.
+Line 213: Class MSForms.Label of control Label7 was not a loaded control class.
+Line 227: Class MSForms.ComboBox of control CoItem was not a loaded control class.
+Line 246: Class MSForms.Label of control Label1 was not a loaded control class.

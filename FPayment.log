@@ -1,0 +1,11 @@
+Line 57: Class MSComCtl2.DTPicker of control DTPDate was not a loaded control class.
+Line 79: Class MSForms.Label of control LAddress was not a loaded control class.
+Line 97: Class MSForms.Label of control LCurrentBalance was not a loaded control class.
+Line 112: Class MSForms.Label of control Label4 was not a loaded control class.
+Line 127: Class MSForms.TextBox of control TNarration was not a loaded control class.
+Line 143: Class MSForms.Label of control Label3 was not a loaded control class.
+Line 158: Class MSForms.TextBox of control TAmount was not a loaded control class.
+Line 174: Class MSForms.Label of control Label1 was not a loaded control class.
+Line 189: Class MSForms.TextBox of control TVoucherNo was not a loaded control class.
+Line 205: Class MSForms.Label of control Label5 was not a loaded control class.
+Line 220: Class MSForms.ComboBox of control CoAccount was not a loaded control class.
